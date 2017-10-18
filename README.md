@@ -16,9 +16,12 @@
 
 ## Support
 
-## Tips
+## article
 
-## Update to the latest prettier version
+[why-arent-you-using-prettier](https://engineering.hexacta.com/why-arent-you-using-prettier-4fe0a77713e8)
+
+
+## install
 
 ```
 $ npm install --global prettier
@@ -27,6 +30,7 @@ $ npm install --global prettier
 # Contributors
 
 ## videos
+
 
 https://www.youtube.com/watch?v=hkfBvpEfWdA
 
